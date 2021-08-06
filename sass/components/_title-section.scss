@@ -1,0 +1,8 @@
+.title-section {
+  @include font(36px, 700, 1.16);
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+  margin-bottom: 50px;
+  margin-top: auto;
+}

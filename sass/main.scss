@@ -1,26 +1,24 @@
-// UTILS
-@import "./utils/variables";
-@import "./utils/visually-hidden";
-@import "./utils/maxins";
+//UTILS
+@import './utils/variables';
+@import './utils/visually-hidden';
 
-// BASE
-@import "./base/common";
-@import "./base/container";
+//BASE
+@import './base/common';
+@import './base/conteiner';
 
-// COMPONENTS
-@import "./components/modal-btn";
-@import "./components/title-section";
-@import "./components/social-link";
-@import "./components/backdrop";
-@import "./components/modal-window";
-@import "./components/modal-form";
+//COMPONENTS
+@import './components/logo';
+@import './components/section-title';
+@import './components/social-link';
+@import './components/backdrop';
+@import './components/modal';
 
-// LAYOUT
-@import "./layout/header";
-@import "./layout/hero";
-@import "./layout/advantages";
-@import "./layout/work-process";
-@import "./layout/team";
-@import "./layout/customers";
-@import "./layout/footer";
-@import "./layout/portfolio";
+//LAYOUT
+@import './layout/page-header';
+@import './layout/hero-section';
+@import './layout/feature-section';
+@import './layout/work-section';
+@import './layout/team-section';
+@import './layout/client-section';
+@import './layout/portfolio-section';
+@import './layout/page-footer';
